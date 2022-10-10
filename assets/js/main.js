@@ -17,6 +17,6 @@ for ( let i = 0; i < 101; i++ ) {
     //     let i ="FizzBuzz";
     //     console.log(i);
     // }
-    
+
 }
 
