@@ -6,6 +6,17 @@
 for ( let i = 0; i < 101; i++ ) {
     console.log(i);
 
+    if ((i % 3) == 0) {
+        let i ="Fizz";
+        console.log(i);
+    } else if ((i % 5) == 0){
+        let i ="Buzz";
+    console.log(i);  
+    }
+    //  else if ((i % 3 & i % 5) == 0){
+    //     let i ="FizzBuzz";
+    //     console.log(i);
+    // }
     
-
 }
+
